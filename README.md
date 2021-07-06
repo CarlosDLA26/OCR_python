@@ -9,12 +9,9 @@ An easy way to detect words in an image with python and easy OCR.
 
 ## Example
 We'll use this images:
-1. 
-![](projectOCR/images/image2.jpg)
-2. 
-![](projectOCR/images/image3.jpg)
-3. 
-![](projectOCR/images/image4.jpg)
+1. ![](projectOCR/images/image2.jpg)
+2. ![](projectOCR/images/image3.jpg)
+3. ![](projectOCR/images/image4.jpg)
 
 When we'll run code, it'll give us next output:
 ```
